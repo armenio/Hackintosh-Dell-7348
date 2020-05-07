@@ -20,3 +20,15 @@
 - [x] Hotkeys
 - [x] Touchpad with gestures
 - [x] Many small details that do not need to be listed here
+
+## Backgorund Information
+The backgorund information of my Dell 7348 Hackintosh can be found at [tmx86](https://www.tonymacx86.com/threads/guide-dell-7348-i7-using-clover-uefi-10-11.178992/) 
+
+## Credits
+- RehabMan
+- Acidanthera Team
+- PikeRAlpha
+- toleda
+- nguyenmac
+- Austere.J
+- lisai903
